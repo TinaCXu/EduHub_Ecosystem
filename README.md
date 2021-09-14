@@ -1,1 +1,1 @@
-# EduHub_Ecosystem
+# EduHub
